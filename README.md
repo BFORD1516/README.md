@@ -113,7 +113,10 @@ This project is not yet deployed
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Website to book detail appointment services
+• User can create an account and login in to see past and future appointments
+• User should be able to cancel an appointment
+• Admin should be able to cancel an appointment & provide a reason to the user of why the appointment was cancelled
+• Pop up for email list for specials
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
